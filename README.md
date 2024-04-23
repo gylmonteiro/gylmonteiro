@@ -3,7 +3,7 @@
 
 | ![Brazil](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png "Brazil") Olá, sou Gyl Monteiro | ![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States") Hello, I'm Gyl Monteiro 
 | --- | --- 
-| • 🌐 Desenvolvedor Web 🖥️;<br>• 📝 Foco em desenvolvimento FullStack;<br>• 📝 Atualmente, focado em Python e Django;<br>• Idiomas:<br> Inglês, <br>• 📍 Aracati, Ceará - Brasil. | • 🌐 Web Developer 🖥️;<br>• 📝Focus on FullStack development;<br>• 📝 Currently, focused on Python and Django;<br>• Languages:<br> English, <br> - 📍 Aracati, Ceará - Brasil. 
+| • 🌐 Desenvolvedor Web 🖥️;<br>• 📝 Foco em desenvolvimento FullStack;<br>• 📝 Atualmente, focado em Python e Django;<br> • 📝 Conhecimento de HTML, CSS e JavaScript em Front End; <br> • Idiomas:<br> Inglês, <br>• 📍 Aracati, Ceará - Brasil. | • 🌐 Web Developer 🖥️;<br>• 📝Focus on FullStack development;<br>• 📝 Currently, focused on Python and Django;<br>• Languages:<br> English, <br> - 📍 Aracati, Ceará - Brasil. 
 
 <img align="right">
 <div align="center">
