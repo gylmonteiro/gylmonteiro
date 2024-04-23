@@ -40,7 +40,7 @@
   <img align="center" alt="Ste-VS" height="30" width="40" src="https://skillicons.dev/icons?i=github">  
   <img align="center" alt="Ste-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> 
   <img align="center" alt="Ste-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">   
-  <img align="center" alt="Ste-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"> 
+  <img align="center" alt="Ste-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> 
   <img align="center" alt="Ste-Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Ste-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="Ste-nextjs" height="30" width="40" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*W0fC854FAMD1EP60bnl2lg.png">
