@@ -25,7 +25,7 @@
 
 
 <h3>Objetivo Profissional </h3>
-<li> Trazer soluções que possam impactar a realidade de equipes e setores que precisam de agilidade e controle das organizações ou pessoas em geral. /li>
+<li> Trazer soluções que possam impactar a realidade de equipes e setores que precisam de agilidade e controle das organizações ou pessoas em geral. </li>
 
 </div><br>
 
