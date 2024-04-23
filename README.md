@@ -1,57 +1,59 @@
+#[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=I'am+Gyl+Monteiro)](https://git.io/typing-svg)
+# 🚀 Desenvolvedor Web 
 
-# Perfil
+| ![Brazil](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png "Brazil") Olá, sou Gyl Monteiro | ![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States") Hello, I'm Gyl Monteiro 
+| --- | --- 
+| • 🔱 Desenvolvedor Web;<br>• 📝 Estudante Full Stack;<br>• 📝 Atualmente, focada em Java e React;<br>• Idiomas:<br> Inglês, Espanhol, Alemão;<br>• 📍 Juazeiro de Norte, Ceará - Brasil. | • 🔱 Psychologist in career transition;<br>• 📝 Full Stack Student;<br>• 📝 Currently, focused on Java and React;<br>• Languages:<br> English, Spanish, German;<br> - 📍 Juazeiro de Norte, Ceará - Brazil. | • 🔱 Psicologa en transición profesional;<br>• 📝 Estudiante Full Stack;<br>• 📝 Actualmente, enfocada en Java y React;<br>• Idiomas:<br> Inglés, Español, Alemán;<br>• 📍 Juazeiro de Norte, Ceará - Brazil. | • 🔱 Psychologue im Berufswechsel;<br>• 📝 Full Stack Learner;<br>• 📝 Konzentriert sich derzeit auf Java und React;<br>• Sprachen:<br> Englisch, Spanisch, Deutsch;<br>• 📍 Juazeiro de Norte, Ceará - Brazil. |
 
-Olá! Sou um desenvolvedor apaixonado por Python e JavaScript, com experiência nos frameworks Django e React. Abaixo estão algumas informações sobre minhas habilidades e projetos.
+<img align="right">
+<div align="center">
 
-## Habilidades
+<br>
 
-- **Linguagens de Programação:** Python, JavaScript
-- **Frameworks:** Django, React
-- **Banco de Dados:** MySQL, PostgreSQL, MongoDB
-- **Versionamento de Código:** Git, GitHub
-- **Design Responsivo:** HTML5, CSS3, Bootstrap
+<div align="left">
+<h3> Resumo Profissional</h3>
+<li> Experiência em HTML, CSS, JavaScript, ReactJS, NodeJs, Java, e MySQL. </li>
+<li> Experiência anterior em Psicologia Clínica e Organizacional, com foco em Transtornos de Ansiedade e Gestão de Pessoas </li>
+<li> Softskills: Comunicação, Trabalho em equipe, flexibilidade </li>
 
-## Projetos
 
-Aqui estão alguns projetos relevantes em que trabalhei recentemente:
+<h3> <strong> Formações </strong> </h3> 
+<li> Desenvolvimendo FullStack pela RECODE PRO 2023/2024 (Técnico) </li>
+<li> Psicologia pelo Centro Universitário Dr. Leão Sampaio - UNILEÃO (2020) (Bacharelado) </li>ㅤ 
 
-- **Nome do Projeto**: Descrição do projeto que destaca seu uso de Python/Django ou JavaScript/React. Inclua detalhes sobre o objetivo do projeto, suas responsabilidades e resultados alcançados.
 
-- **Nome do Projeto**: Descrição do projeto que destaca seu uso de Python/Django ou JavaScript/React. Inclua detalhes sobre o objetivo do projeto, suas responsabilidades e resultados alcançados.
+<h3>Objetivo Profissional </h3>
+<li> Fornecer soluções em tecnologia, trabalhar em projetos de impacto e contribuir para o conhecimento na área /li>
 
-- **Nome do Projeto**: Descrição do projeto que destaca seu uso de Python/Django ou JavaScript/React. Inclua detalhes sobre o objetivo do projeto, suas responsabilidades e resultados alcançados.
+</div><br>
 
-## Experiência Profissional
 
-**Empresa XYZ** (Data de Início - Data de Término)
-Cargo: Desenvolvedor Full-stack
+<div style="display: inline_block" align = "center"><br> 
+  <h2> Stacks </h2>
+  <img align="center" alt="Ste-VS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">  
+  <img align="center" alt="Ste-Html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="Ste-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+ <img align="center" alt="Ste-bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">  
+  <img align="center" alt="Ste-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"> 
+  <img align="center" alt="Ste-VS" height="30" width="40" src="https://skillicons.dev/icons?i=github">  
+  <img align="center" alt="Ste-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> 
+  <img align="center" alt="Ste-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">   
+  <img align="center" alt="Ste-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"> 
+  <img align="center" alt="Ste-Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Ste-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="Ste-nextjs" height="30" width="40" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*W0fC854FAMD1EP60bnl2lg.png">
+</div><br>
+<li> Também estudando: Análise de Dados </li>
+<br><br>
+<div align = "center">  
+<a href="https://github.com/Stephmarquess">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stephmarquess&layout=compact&langs_count=7&theme=dracula&title_color=32CD32"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Stephmarquess&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&title_color=32CD32"/>
+</div>    
+  
 
-- Desenvolvimento de aplicações web utilizando Python/Django e JavaScript/React.
-- Colaboração com equipes multidisciplinares para entregar projetos dentro dos prazos estabelecidos.
-- Participação ativa na fase de planejamento e definição de requisitos dos projetos.
-- Manutenção e otimização de código existente.
-
-## Educação
-
-**Licenciado em Informática** (2015)
-IFRN IPANGUAÇU
-
-**Especialista em Redes de Computadores** (2019)
-ESAB
-
-**MBA em Engenharia de Software** (2023)
-Faculdade Mtropolitana de São Paulo
-
-## Certificações
-- Certificação em Full Stack - Kenzie Academy Brasil (2022)
-- Certificação em Django (2022)
-- Certificação em React (2023)
-
-## Contato
-
-Você pode entrar em contato comigo através dos seguintes meios:
-
-- Email: [seuemail@example.com](mailto:seuemail@example.com)
-- LinkedIn: [seu perfil do LinkedIn](https://www.linkedin.com/in/seuperfil)
-
-Estou aberto a oportunidades de trabalho interessantes e projetos colaborativos. Fique à vontade para entrar em contato!
+  <h2> Contato </h2>
+  <a href="https://www.linkedin.com/in/st%C3%A9fany-marques/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href =mailto:smouramkt@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/stephmarques_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
