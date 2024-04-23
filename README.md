@@ -48,9 +48,9 @@
 <li> Em progresso de estudo: Data Science com Python e análise de dados com Power BI </li>
 <br><br>
 <div align = "center">  
-<a href="https://github.com/Stephmarquess">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stephmarquess&layout=compact&langs_count=7&theme=dracula&title_color=32CD32"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Stephmarquess&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&title_color=32CD32"/>
+<a href="https://github.com/gylmonteiro">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gylmonteiro&layout=compact&langs_count=7&theme=dracula&title_color=32CD32"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=gylmonteiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&title_color=32CD32"/>
 </div>    
   
 
