@@ -11,19 +11,21 @@
 <br>
 
 <div align="left">
-<h3> Resumo Profissional</h3>
-<li> Experiência em HTML, CSS, JavaScript, ReactJS, NodeJs, Java, e MySQL. </li>
-<li> Experiência anterior em Psicologia Clínica e Organizacional, com foco em Transtornos de Ansiedade e Gestão de Pessoas </li>
-<li> Softskills: Comunicação, Trabalho em equipe, flexibilidade </li>
+<h3> Resumo</h3>
+<li> Professor da área de informática e desenvolvedor de sistemas WEB </li>
+<li> Experiência profissional como Coordenador de TI, desempenhado atividades de gestão de projetos e gerenciamento de equipes para suporte de T.I. </li>
+<li> Atuação com desenvolvimento de aplicações WEB para atender necessidades reais em setores da Educação, ONGs e freelancers; 
+<li> Softskills: Comunicação, Trabalho em equipe, flexibilidade e organização </li>
 
 
 <h3> <strong> Formações </strong> </h3> 
-<li> Desenvolvimendo FullStack pela RECODE PRO 2023/2024 (Técnico) </li>
-<li> Psicologia pelo Centro Universitário Dr. Leão Sampaio - UNILEÃO (2020) (Bacharelado) </li>ㅤ 
+<li> MBA em Engenharia de Software (2023 - Faculdade Metropolitana) </li>
+<li> Licenciatura em Informática (2016 - IFRN) </li>
+<li> Pós Graduação em Redes de Computadores (2016 - ESAB)</li>ㅤ 
 
 
 <h3>Objetivo Profissional </h3>
-<li> Fornecer soluções em tecnologia, trabalhar em projetos de impacto e contribuir para o conhecimento na área /li>
+<li> Trazer soluções que possam impactar a realidade de equipes e setores que precisam de agilidade e controle das organizações ou pessoas em geral. /li>
 
 </div><br>
 
@@ -43,7 +45,7 @@
   <img align="center" alt="Ste-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="Ste-nextjs" height="30" width="40" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*W0fC854FAMD1EP60bnl2lg.png">
 </div><br>
-<li> Também estudando: Análise de Dados </li>
+<li> Em progresso de estudo: Data Science com Python e análise de dados com Power BI </li>
 <br><br>
 <div align = "center">  
 <a href="https://github.com/Stephmarquess">
